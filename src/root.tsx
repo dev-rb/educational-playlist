@@ -32,6 +32,7 @@ export default function Root() {
 					</ErrorBoundary>
 				</Suspense>
 				<Scripts />
+				<script src="https://www.youtube.com/iframe_api"></script>
 			</Body>
 		</Html>
 	);
